@@ -1,6 +1,6 @@
 <template>
   <div>
-    Business
+    Business222
   </div>
 </template>
 <script lang="ts">
